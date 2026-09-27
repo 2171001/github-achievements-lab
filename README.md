@@ -1,1 +1,1 @@
-# github-achievements-lab
+# GitHub Achievement Lab
